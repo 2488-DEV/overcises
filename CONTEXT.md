@@ -8,6 +8,10 @@ A gamified exercise app for teens and working adults. Users exercise on camera, 
 One repetition of an exercise that the camera AI judges to have correct form. Only Valid Reps earn Points.
 _Avoid_: Rep (unqualified), count
 
+**Exercise**:
+A movement the camera AI can recognise and score. v1 supports two: squat and jumping jack.
+_Avoid_: Workout, move, pose
+
 **Points**:
 The score a user earns from Valid Reps and completed Quests.
 _Avoid_: Score, XP, coins
@@ -30,4 +34,4 @@ _Avoid_: Tutorial, coach
 
 ## Open terms
 
-Not yet resolved with the user: how Points are calculated, which exercises exist in v1, what a Quest consists of, and what "CB2" means on the sheet.
+Not yet resolved with the user: how Points are calculated, what a Quest consists of, and what "CB2" means on the sheet.
