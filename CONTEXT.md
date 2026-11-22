@@ -21,8 +21,16 @@ The monthly leaderboard ordering users by Points. Top-ranked users (the sheet sa
 _Avoid_: Leaderboard, scoreboard
 
 **Quest**:
-A mission the user can complete for Points.
+A daily mission, of mixed difficulty from easy to hard, that gives bonus Points when completed.
 _Avoid_: Task, challenge, mission
+
+**Level**:
+The user's progression tier. It rises as they exercise, and completing a level pays bonus Points. Higher levels need more to complete and pay more.
+_Avoid_: Rank (that is the monthly Ranking), tier
+
+**Workout Summary**:
+The screen shown when a workout ends, with calories, reps and time.
+_Avoid_: Result page, report
 
 **Reward**:
 A discount or perk from a partner shop (food or fitness), given to top-ranked users at month end.
@@ -34,4 +42,4 @@ _Avoid_: Tutorial, coach
 
 ## Open terms
 
-Not yet resolved with the user: how Points are calculated, what a Quest consists of, and what "CB2" means on the sheet.
+Not yet resolved with the user: how Points are calculated, what exactly fills a Level (time or reps) and how much it pays, example Quests and how calories are estimated.

@@ -1,0 +1,12 @@
+{
+  "name": "overcise-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "overcise-db",
+      "database_id": "470d809e-9453-4ed1-8d05-7507dc956adb"
+    }
+  ]
+}
