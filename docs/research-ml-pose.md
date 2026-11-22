@@ -2,6 +2,10 @@
 
 Status: first pass, 2026-11-22. Nothing here is benchmarked on our own devices yet.
 
+## Decision
+
+Use an existing pretrained pose model as is. We do not train or fine-tune our own model. All app-specific logic (angles, thresholds, form rules) is plain code on top of the model's output.
+
 ## What we need
 
 Camera frames in, a per-frame body pose out, then our own rule code decides whether a rep happened and whether its form was correct. The model gives joint positions only. It does not know what a squat is.
